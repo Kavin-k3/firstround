@@ -1,0 +1,17 @@
+.kk{
+    background-color: black;
+    border-radius: 1rem;
+}
+/* .card1{
+    justify-content: end;
+} */
+.icona{
+    font-size:x-large;
+    
+}
+.boxcol:hover{
+    box-shadow:5px 5px 5px 5px black;
+}
+.icona1{
+    font-size:x-large;
+}

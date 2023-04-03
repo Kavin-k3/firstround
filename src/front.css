@@ -1,0 +1,10 @@
+.first{
+    background-image: url("https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    border-radius: 0px 0px 25px 25px;
+}
+
+.rt{
+    background-color: black;
+    border-radius: 30px 30px 0px 0px;
+} 
